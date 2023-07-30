@@ -6,3 +6,4 @@ built with reactjs and spoonacularapi.
 "# tastes" 
 "# tastes" 
 "# tastes" 
+"# Tastytreat1" 
